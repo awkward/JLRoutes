@@ -267,11 +267,11 @@
 			};
 			buildConfigurationList = 5D33680D16C6DC9300F983AA /* Build configuration list for PBXProject "JLRoutes" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = 5D33680916C6DC9300F983AA;
 			productRefGroup = 5D33681316C6DC9300F983AA /* Products */;
